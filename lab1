@@ -1,24 +1,0 @@
-Script started on 2015年03月10日 (週二) 17時33分08秒
-]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ whoami.[K; pwd
-F74036027
-/home/F74036027/lab1
-]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ git config -l
-user.name=F74036027
-user.email=f74036027@mail.ncku.edu.tw
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab 1.git
-bash: your: No such file or directory
-]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ git clone https://github.com/<your github account>/lab11.git[A]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ [C[C[C[C[Config -l[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clone https://github.com/<your github account>/lab11.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.[1Pgit[A]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.g[1Pit[A]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.gi[1Pt[A]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git[K[A]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitf/lab1.git7/lab1.git4/lab1.git0/lab1.git3/lab1.git6/lab1.git0/lab1.git2/lab1.git7/lab1.git[C[1P74036027/lab1.gitF74036027/lab1.git
-Cloning into 'lab1'...
-Username for 'https://github.com': F74036027
-Password for 'https://F74036027@github.com': 
-error: The requested URL returned error: 403 while accessing https://github.com/F74036027/lab1.git/info/refs
-fatal: HTTP request failed
-]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ exit
-
-Script done on 2015年03月10日 (週二) 17時34分31秒
