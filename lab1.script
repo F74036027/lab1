@@ -1,0 +1,27 @@
+Script started on 2015年03月10日 (週二) 17時43分53秒
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ whoami;pwd
+F74036027
+/home/F74036027
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ git config =l
+error: key does not contain a section: =l
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ git clone e https://github.com/<your github account>/lab1.g it[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git[K[A]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/lab1.git [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitF/lab1.git7/lab1.git4/lab1.git0/lab1.git3/lab1.git6/lab1.git0/lab1.git2/lab1.git7/lab1.git
+fatal: repository 'e' does not exist
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ git clone e https://github.com/F74036027/lab1.git[C[1P https://github.com/F74036027/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ rm lab1
+rm: cannot remove `lab1': Is a directory
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ rmdir lab1
+rmdir: failed to remove `lab1': Directory not empty
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ cd lab1
+]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ ls
+lab1
+]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ rm lab1
+]0;F74036027@2015cpp: ~/lab1F74036027@2015cpp:~/lab1$ cd ~
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ rm [Kdir lab1
+rmdir: failed to remove `lab1': Directory not empty
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ rmdir lab1[6Pcd ~rm lab1[3Pcd ~rm lab1ls[Kcd lab1[3@rmdir[C[C[C[C[C[3P lab1git clone  https://github.com/F74036027/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74036027@2015cpp: ~F74036027@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時45分56秒
